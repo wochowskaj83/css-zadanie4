@@ -1,0 +1,31 @@
+.paragraf1 {
+    background-color: #f5f5dd;
+    width: 15%;
+    text-indent: 1.5em;
+}
+
+.kwadrat {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    margin-left: 6em;
+    margin-top: 0.5em;
+}
+
+#mocny {
+    background-color: rgba(10, 10, 10, 1)
+}
+
+#sredni {
+    background-color: rgba(10, 10, 10, 0.8)
+}
+
+#jasny {
+    background-color: rgba(10, 10, 10, 0.6)
+}
+
+#najjasniejszy {
+    background-color: rgba(10, 10, 10, 0.4)
+}
